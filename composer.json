@@ -1,0 +1,19 @@
+{
+	"name":        "lucifurious/charisma",
+	"description": "free, premium quality, responsive, multiple skin admin template.",
+	"authors":     [
+		{
+			"name":  "Muhammad Usman",
+			"email": "hi@usman.it"
+		}
+	],
+	"keywords":    [
+		"html", "css", "bootstrap", "twitter bootstrap", "css framework"
+	],
+	"homepage":    "https://github.com/usmanhalalit/charisma",
+	"type":        "library",
+	"license":     "Apache-2.0",
+	"require":     {
+		"php": ">=5.2"
+	}
+}
